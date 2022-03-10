@@ -2,7 +2,7 @@ Joseph Richard Adam Malam
 SYNALOGiK Java Programming Test
 Thursday 10th March 2022
 
-Compile and run the Task.java class, which takes a single argument — the text file path (e.g. sample.txt").
+Compile and run the Task.java class, which takes a single argument — the text file path (e.g. "sample.txt").
 
 I have written three unit tests:
   1. Test the example text provided on the instruction sheet.
